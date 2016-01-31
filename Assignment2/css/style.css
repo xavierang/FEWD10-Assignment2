@@ -111,6 +111,11 @@ header button{
   color:#121212;
 }
 
+header button:hover{
+  background-color:#033048;
+  color:#f9e42e;
+}
+
 section.benefits{
   background-color:#f0efef;
 }
@@ -200,6 +205,11 @@ section.signup button{
   color:#ffffff;
   background-color:#033048;
   padding:0.5em 2em 0.5em 2em;
+}
+
+section.signup button:hover{
+  background-color:#121212;
+  color:#ffffff;
 }
 
 footer {
